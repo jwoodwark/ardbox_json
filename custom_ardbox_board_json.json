@@ -14,7 +14,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.0.0.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.0.0.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.0.0.tar.bz2",
                     "checksum": "SHA-256:78639d93534984472380b5bb795c2a4d3729172035e8a7c1d464eab90a338392",
                     "size": "131398",
@@ -65,7 +65,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.0.1.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.0.1.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.0.1.tar.bz2",
                     "checksum": "SHA-256:aef24e04eaa23f4f72217b910b2ef84a20f54222d66b6b7ff9d53dc679029664",
                     "size": "123287",
@@ -116,7 +116,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.0.2.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.0.2.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.0.2.tar.bz2",
                     "checksum": "SHA-256:a8cd9885791aa9dc83c6dd4d38c68c8c2a9302fdb89acd169128681d00cb635f",
                     "size": "123221",
@@ -167,7 +167,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.0.3-rc1.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.0.3-rc1.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.0.3-rc1.tar.bz2",
                     "checksum": "SHA-256:d1f0083b9441bb62a9130dd020ca9f834c3b53ef00c0b52bd79cb03f61ef974e",
                     "size": "122789",
@@ -218,7 +218,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.1.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.1.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.1.tar.bz2",
                     "checksum": "SHA-256:1f5ab21d87dbe77fdc2519a7d71081159f4ac2e5d2cf476a239eb790740a8afe",
                     "size": "150026",
@@ -251,7 +251,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.3.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.3.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.3.tar.bz2",
                     "checksum": "SHA-256:f40897ff0a66eb1ed94646b15c54e7cf97e322f0cf262bbebac936f8a799ac71",
                     "size": "149958",
@@ -284,7 +284,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.4.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.4.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.4.tar.bz2",
                     "checksum": "SHA-256:07b0cd20e117977d3c022ab9067f15c6b62411727e44d48d405cfed6a9273d64",
                     "size": "151374",
@@ -317,7 +317,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.5.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.5.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.5.tar.bz2",
                     "checksum": "SHA-256:8b92d82b698d042fc48a21506dc6f47fdb2121c6cb6c8c1c7d7e85f50dad49b2",
                     "size": "152563",
@@ -350,7 +350,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.6.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.6.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.6.tar.bz2",
                     "checksum": "SHA-256:504efbc1042b40cd0e77f1da9c2f9b70d5f774d3c596d3b11370eb9fccdba9a0",
                     "size": "150965",
@@ -383,7 +383,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.7.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.7.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.7.tar.bz2",
                     "checksum": "SHA-256:98fccb0d47e2249fb0bac4c9fa534f4c78a77e7accfc6edb844f769a3953a227",
                     "size": "150945",
@@ -416,7 +416,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.8.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.8.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.8.tar.bz2",
                     "checksum": "SHA-256:f95a20436a7304df14bdc1edc040c2d296771a2cdc634e4f26d04bd2f37c1a4d",
                     "size": "151196",
@@ -449,7 +449,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.10.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.10.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.10.tar.bz2",
                     "checksum": "SHA-256:f3a5141170f613d5d83515b41b41be09e89f441231f1228882e98d8913720544",
                     "size": "151465",
@@ -482,7 +482,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.11.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.11.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.11.tar.bz2",
                     "checksum": "SHA-256:ace6de2db6dd890685cdce286c282e1846aa94703d021c245b56b6fa1d49daa9",
                     "size": "151517",
@@ -515,7 +515,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.12.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.12.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.12.tar.bz2",
                     "checksum": "SHA-256:7594906a0418e908940b9d22c5f694a93709ee71264bc3a2cc6d43da5c766bce",
                     "size": "151500",
@@ -548,7 +548,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.13.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.13.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.13.tar.bz2",
                     "checksum": "SHA-256:9dce626cbe00a1689d573adf73c9c62c32ad920a14a7fa39accb3ecd63d0d242",
                     "size": "151699",
@@ -581,7 +581,7 @@
                     "help": {
                         "online": "https://www.industrialshields.com/"
                     },
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.14.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.14.tar.bz2",
                     "archiveFileName": "industrialshields-boards-avr-1.1.14.tar.bz2",
                     "checksum": "SHA-256:d1c2ebcabea56024ab235098e77ae5e78c08e61cc50b9f1955e593dfd6f3affc",
                     "size": "151850",
@@ -635,7 +635,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.15.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.15.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.15.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -665,7 +665,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.0.1.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.0.1.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.0.1.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -715,7 +715,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.16.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.16.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.16.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -760,7 +760,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.17.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.17.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.17.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -805,7 +805,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.18.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.18.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.18.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -850,7 +850,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.19.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.19.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.19.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -895,7 +895,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.20.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.20.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.20.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -940,7 +940,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.21.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.21.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.21.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -985,7 +985,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.22.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.22.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.22.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1036,7 +1036,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.23.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.23.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.23.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1090,7 +1090,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.24.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.24.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.24.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1147,7 +1147,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.25.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.25.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.25.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1207,7 +1207,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.26.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.26.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.26.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1267,7 +1267,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.27.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.27.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.27.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1327,7 +1327,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.28.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.28.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.28.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1387,7 +1387,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.29.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.29.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.29.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1447,7 +1447,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.30.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.30.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.30.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1507,7 +1507,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.31.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.31.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.31.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1540,7 +1540,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.0.2.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.0.2.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.0.2.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1575,7 +1575,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-megaavr-1.0.1.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-megaavr-1.0.1.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-megaavr-1.0.1.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1613,7 +1613,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.0.3.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.0.3.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.0.3.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1654,7 +1654,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.0.4.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.0.4.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.0.4.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1719,7 +1719,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.32.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.32.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.32.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1779,7 +1779,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.33.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.33.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.33.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1815,7 +1815,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.0.5.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.0.5.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.0.5.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1880,7 +1880,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.34.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.34.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.34.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1916,7 +1916,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.0.6.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.0.6.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.0.6.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1957,7 +1957,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.0.7.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.0.7.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.0.7.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -1998,7 +1998,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.0.8.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.0.8.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.0.8.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2039,7 +2039,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.1.0.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.1.0.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.1.0.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2104,7 +2104,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.35.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.35.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.35.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2140,7 +2140,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.1.1.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.1.1.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.1.1.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2181,7 +2181,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.1.2.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.1.2.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.1.2.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2222,7 +2222,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.1.3.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.1.3.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.1.3.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2263,7 +2263,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.1.4.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.1.4.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.1.4.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2328,7 +2328,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.36.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.36.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.36.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2388,7 +2388,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.37.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.37.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.37.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2424,7 +2424,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.1.5.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.1.5.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.1.5.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2465,7 +2465,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.1.6.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.1.6.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.1.6.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2506,7 +2506,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-1.1.7.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-1.1.7.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-1.1.7.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2547,7 +2547,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.0.0.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.0.0.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.0.0.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2603,7 +2603,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.0.1.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.0.1.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.0.1.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2659,7 +2659,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.0.2.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.0.2.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.0.2.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2715,7 +2715,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.0.3.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.0.3.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.0.3.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2795,7 +2795,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.38.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.38.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.38.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2831,7 +2831,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.0.4.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.0.4.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.0.4.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2887,7 +2887,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.0.5.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.0.5.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.0.5.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2943,7 +2943,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.0.6.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.0.6.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.0.6.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -2999,7 +2999,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.0.7.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.0.7.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.0.7.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3055,7 +3055,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.1.2.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.1.2.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.1.2.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3116,7 +3116,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.1.3.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.1.3.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.1.3.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3177,7 +3177,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.1.4.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.1.4.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.1.4.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3262,7 +3262,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.39.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.39.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.39.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3322,7 +3322,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.40.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.40.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.40.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3382,7 +3382,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.41.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.41.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.41.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3418,7 +3418,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.1.5.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.1.5.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.1.5.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3503,7 +3503,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.42.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.42.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.42.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3539,7 +3539,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.1.6.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.1.6.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.1.6.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3594,7 +3594,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-megaavr-1.0.2.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-megaavr-1.0.2.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-megaavr-1.0.2.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3638,7 +3638,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.2.0.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.2.0.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.2.0.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3723,7 +3723,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-avr-1.1.43.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-avr-1.1.43.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-avr-1.1.43.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3762,7 +3762,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.2.1.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.2.1.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.2.1.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3826,7 +3826,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.2.2.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.2.2.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.2.2.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3890,7 +3890,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.2.3.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.2.3.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.2.3.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
@@ -3954,7 +3954,7 @@
                         }
                     ],
                     "archiveFileName": "industrialshields-boards-esp32-2.2.4.tar.bz2",
-                    "url": "https://apps.industrialshields.com/arduino/boards/industrialshields-boards-esp32-2.2.4.tar.bz2",
+                    "url": "https://apps.industrialshields.com/Arduino/Boards/industrialshields-boards-esp32-2.2.4.tar.bz2",
                     "toolsDependencies": [
                         {
                             "packager": "industrialshields",
